@@ -1,0 +1,27 @@
+body {
+    color: blueviolet;
+    background: red;
+    margin: 0px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px blueviolet;
+    padding: 20px;
+    font-size: 40px;
+    color: hsla(244, 87%, 21%, 0.144);
+
+}
+
+section {
+    background: burlywood;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
